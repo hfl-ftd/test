@@ -1,2 +1,2 @@
 # test
-初次学校github
+初次学习github
